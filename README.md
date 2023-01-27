@@ -1,41 +1,41 @@
-### Data de Criação
-2022/05/01
+### Start Date
+May of 2022
 
-### Título do Projeto
-Análise de marketing para fabricante de bicicletas: [Dashboard Online](https://shre.ink/jl2)
+### Project Name
+Marketing analysis for bicycle manufacturer: [Dashboard Online](https://shre.ink/jl2)
 
-### Sistemas Necessários:
+### Required Systems:
 Power BI e SQL Server
 
-### Relator
+### Reporter
 CMO - "Diretor de Marketing"
 
-### Descrição
-A adventureworks, fabricante de bicicletas, esta passando por algumas mudanças na diretoria com a entrada do novo CEO e de concorrentes no mercado. Por isso, foi solicitado a equipe de marketing que forneça um estudo dos últimos dois anos (2012 e 2013) sobre o progresso da área de vendas e uma ação estratégica para aumentar a receita para os próximos 6 meses.
+### Description
+Adventureworks, a bicycle manufacturer, is going through some management changes with new competitors in the market. The marketing team was asked to provide a study of the last two years (2012 and 2013) on the progress of the sales area and a strategic action to leverage revenue for the next 6 months.
 
-Nesse projeto usando os dados da adventureworks (fornecido pela Microsoft), é possível comparar a persona do cliente, a satisfação do atendimento, as mudanças no setor de vendas e a relevância de produtos ao longo dos últimos dois anos (2012 e 2013).
+In this project using adventureworks data (provided by Microsoft), it is possible to compare customer persona, service satisfaction, sales industry changes and product relevance over the last two years (2012 and 2013).
 
-O relatório entrega análises como:\
-1.Densidade demográfica\
-2.Satisfação do cliente\
-3.Ticket médio\
-4.Porcentagem de lojas online e seu impacto\
-5.Análise de pareto\
-e muito mais...
+The report delivers analytics such as:\
+1.Demographic density\
+2.Customer satisfaction\
+3.Average ticket\
+4.Percentage of online stores and their impact\
+5. Pareto analysis\
+and much more...
 
-### Mudança de Valor:
-Visualização através de Dashboard e facilitação na tomada de decisão
+### Value Change:
+Visualization through Dashboard and facilitation in decision making.
  
-### Objetivo:
-Apresentar progresso de vendas, do cliente e dos produtos nos últimos dois anos. Assim como, sugerir uma ação estratégica para os próximos 6 meses.
+### Goals:
+Present sales, customer, and product progress over the last two years. As well as suggesting a strategic action to leverage revenue for the next 6 months.
 
-### Documentos usados
-Usando dados provindo do banco de dados adventureworks fornecido pela Microsoft ([Link](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/adventure-works)), foram geradas 5 Queries:\
+### Documents:
+Using data from the adventureworks database provided by Microsoft ([Link](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/adventure-works)), 5 Queries were generated :\
 1. DIm_Calendar
 2. Dim_Customer
 3. Dim_Product
 4. Fact_CallCenter
 5. Fact_Sales
 
-### Creditos
-([Site Microsoft](https://docs.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms))
+### Credits
+([Microsoft Data Base](https://docs.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms))
