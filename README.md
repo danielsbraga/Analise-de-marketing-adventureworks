@@ -8,12 +8,13 @@ Marketing analysis for bicycle manufacturer: [Dashboard Online](https://shre.ink
 Power BI e SQL Server
 
 ### Reporter
-CMO - "Diretor de Marketing"
+
+CMO - "Chef Marketing Director"
 
 ### Description
 Adventureworks, a bicycle manufacturer, is going through some management changes with new competitors in the market. The marketing team was asked to provide a study of the last two years (2012 and 2013) on the progress of the sales area and a strategic action to leverage revenue for the next 6 months.
 
-In this project using adventureworks data (provided by Microsoft), it is possible to compare customer persona, service satisfaction, sales industry changes and product relevance over the last two years (2012 and 2013).
+In this project, using adventureworks data (provided by Microsoft), it is possible to compare customer persona, service satisfaction, sales industry changes and product relevance over the last two years (2012 and 2013).
 
 The report delivers analytics such as:\
 1.Demographic density\
@@ -24,7 +25,7 @@ The report delivers analytics such as:\
 and much more...
 
 ### Value Change:
-Visualization through Dashboard and facilitation in decision making.
+Visualization through Dashboard and facilitation in decision-making.
  
 ### Goals:
 Present sales, customer, and product progress over the last two years. As well as suggesting a strategic action to leverage revenue for the next 6 months.
